@@ -2,7 +2,7 @@ Scala-Exchange
 =================
 
 Exchange calculating project with Scala. I used Currency Api (http://currency-api.appspot.com/) to calculate exchange rates instantly.
-This basic project require API key in main class. Available currencies :
+This basic project require API key in main class. Available currencies and codes :
 
     AUD 	Australian Dollar
   	CAD 	Canadian Dollar
